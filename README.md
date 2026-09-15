@@ -4,6 +4,15 @@ A native iOS app I designed and built to run the daily operations of a family po
 
 > **Showcase repo.** The app's source code is private. This repo includes the architecture, the product approach and a few representative source files.
 
+## Screenshots
+<p>
+  <img src="screenshots/ui_3.png" width="250" alt="Batch dashboard" />
+  <img src="screenshots/ui_1.png" width="250" alt="Weekly breakdown" />
+  <img src="screenshots/ui_2.png" width="250" alt="Trend charts" />
+</p>
+
+<sub>Production figures are blurred.</sub>
+
 ## The problem
 Daily production and mortality data was tracked by hand, one batch at a time. That made it hard to see weekly trends, compare batches, or know whether today's entry had been made.
 
